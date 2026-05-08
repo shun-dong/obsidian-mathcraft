@@ -6,5 +6,5 @@
 	"description": "A plugin for theorem numbering, equation numbering, math-aware links, TikZ rendering, GeoGebra integration, and customizable theorem styles.",
 	"author": "Albus",
 	"authorUrl": "https://github.com/AlbusGuo",
-	"isDesktopOnly": true
+	"isDesktopOnly": false
 }
